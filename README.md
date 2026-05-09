@@ -59,7 +59,7 @@ Key Variables:
 ---
 # Selected Visualizations
 
-![scatter Plot](figures/scatter1.png)
+![scatter Plot](figures/sctter1.png)
 
 # Key Findings
 
