@@ -75,3 +75,29 @@ Final Model Metrics:
 - Adjusted R² = 0.223
 
 The final model explains approximately 22% of the variation in log-transformed Airbnb revenue, which is considered reasonable for social science and behavioral datasets.
+
+# Airbnb Revenue Analysis and Prediction
+
+Statistical and econometric modeling of Airbnb listing performance using multiple linear regression, diagnostic analysis, and model selection techniques.
+
+---
+# Full Report
+
+The complete statistical report can be found in:
+/report/
+
+# Technologies Used
+
+R
+ggplot2
+dplyr
+caret
+car
+stats
+
+# Author
+
+Cruise Chen
+University of Toronto
+Statistics, Mathematics, and Economics
+
