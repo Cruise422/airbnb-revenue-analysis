@@ -57,7 +57,9 @@ Key Variables:
 - Dummy variable encoding for categorical predictors
 
 ---
-
+# Selected Visualizations
+![scatter Plot](figures/scatter1.png)
+![QQ Plot](figures/QQ plot.png)
 # Key Findings
 
 - Host experience showed the strongest positive relationship with revenue.
