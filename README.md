@@ -57,9 +57,10 @@ Key Variables:
 - Dummy variable encoding for categorical predictors
 
 ---
-# Selected Visualizations
+## Selected Visualizations
 
 ![scatter Plot](figures/sctter1.png)
+![regression Plot](figures/log_reg1.png)
 
 # Key Findings
 
