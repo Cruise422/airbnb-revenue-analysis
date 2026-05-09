@@ -58,6 +58,7 @@ Key Variables:
 
 ---
 # Selected Visualizations
+Markdown
 ![scatter Plot](figures/scatter1.png)
 ![QQ Plot](figures/QQ plot.png)
 # Key Findings
